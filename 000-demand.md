@@ -1,7 +1,10 @@
 # Exemplo para inicializar o repositorio
 specify init --here --offline --integration copilot
 
-# Modelo de demanda
+# executar o /specify.clarify após o /specify.specify
+# executar o /specify.analyse após o /specify.tasks
+
+# Modelo de constituição
 Princípios e premissas que não devem ser violados e devem ser seguidos a risca:
 
 - SOLID
@@ -11,6 +14,7 @@ Princípios e premissas que não devem ser violados e devem ser seguidos a risca
 - Utilizar arquitetura hexagonal para o projeto
 - Toda branch obrigatoriamente deve ter o prefixo 'feature/<nome-da-funcionalidade>'
 - Toda vez que forem feitas modificações no projeto seja atualizado o readme contendo a visão funcional do projeto, diagramas de sequência ou fluxogramas no formato mermaid e exemplos de payloads de entrada e saída.
+- Ao final de toda implementação execute a aplicação e garanta que o que foi implementado esteja funcional.
 
 # Stack a ser utilizada
 - Java versão 21 da sdk ou superior
