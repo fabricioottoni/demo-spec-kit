@@ -7,6 +7,8 @@ specify init --here --offline --integration copilot
 # Modelo de constituição
 Princípios e premissas que não devem ser violados e devem ser seguidos a risca:
 
+- Para comunicação com o chat e agentes e criação de documentação sempre utilizar pt-br.
+- Para criação de código fonte, configurações e testes sempre utilizar ingles americano
 - SOLID
 - Clean Code
 - TDD
