@@ -15,11 +15,11 @@ Após inicializar, execute sequencialmente:
 
 ---
 
-## Princípios Não-Negociáveis
+## Princípios Não-Negociáveis (OBRIGATÓRIOS)
 
 Estes princípios e premissas não devem ser violados e devem ser seguidos rigorosamente:
 
-### I. Padrões de Linguagem (OBRIGATÓRIO)
+### I. Padrões de Linguagem
 
 - **Português (pt-br) é OBRIGATÓRIO** para toda comunicação, documentação, mensagens de log e respostas de todos os agentes (humanos, IA, ferramentas)
 - Para criação de código-fonte, configurações e testes, utilizar sempre inglês americano
