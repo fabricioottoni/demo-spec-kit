@@ -31,7 +31,7 @@ Estes princípios e premissas não devem ser violados e devem ser seguidos rigor
 - **Clean Code** - Código limpo e legível é obrigatório
 - **TDD (Test-Driven Development)** - Testes devem ser escritos antes da implementação
 - **Cobertura de Testes**: Sempre cobrir 100% dos testes
-- **Arquitetura Hexagonal**: Utilizar arquitetura hexagonal para o projeto
+- **Arquitetura Hexagonal**: Utilizar arquitetura hexagonal para o projeto, inclusive na estrutura de pastas, distribuição dos arquivos, etc...
 
 ### III. Padrões de Git
 
