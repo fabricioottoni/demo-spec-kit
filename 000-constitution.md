@@ -79,10 +79,10 @@ Exemplo de funcionalidade inicial:
 │   ├── src/main/java/           # Código principal
 │   ├── src/test/java/           # Testes unitários
 │   └── src/main/resources/      # Recursos da aplicação
+│   └── pom.xml                  # Configuração Maven
 ├── infra/                        # Infraestrutura da aplicação
 │   ├── docker-compose.yml       # Configuração de contêineres
 │   ├── kubernetes/              # Configurações do Kubernetes
 │   └── config/                  # Arquivos de configuração
 ├── README.md                     # Visão funcional e documentação
-└── pom.xml                       # Configuração Maven
 ```
