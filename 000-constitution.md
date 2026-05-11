@@ -4,7 +4,7 @@ specify init --here --offline --integration copilot
 # executar o /specify.clarify após o /specify.specify
 # executar o /specify.analyse após o /specify.tasks
 
-# Modelo de constituição
+# constitution
 Princípios e premissas que não devem ser violados e devem ser seguidos a risca:
 
 - Para comunicação com o chat e agentes e criação de documentação sempre utilizar pt-br.
