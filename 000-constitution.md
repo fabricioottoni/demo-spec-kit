@@ -80,6 +80,7 @@ Exemplo de funcionalidade inicial:
 │   ├── src/test/java/           # Testes unitários
 │   └── src/main/resources/      # Recursos da aplicação
 │   └── pom.xml                  # Configuração Maven
+│   └── Dockerfile               # Configuração Docker (container)
 ├── infra/                        # Infraestrutura da aplicação
 │   ├── docker-compose.yml       # Configuração de contêineres
 │   ├── kubernetes/              # Configurações do Kubernetes
